@@ -1,0 +1,22 @@
+{
+  "name": "SampleNewPod",
+  "version": "0.1.0",
+  "summary": "A short description of SampleNewPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SampleNewPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Thahir Maheen": "thahirmaheen@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SampleNewPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SampleNewPod/Classes/**/*"
+}
